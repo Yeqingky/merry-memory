@@ -5,11 +5,11 @@ import (
 	"maps"
 	"strings"
 
+	"github.com/Happy2018new/worldupgrader/blockupgrader"
+	"github.com/Happy2018new/worldupgrader/itemupgrader"
 	"github.com/TriM-Organization/bedrock-world-operator/block"
 	"github.com/TriM-Organization/merry-memory/depends/blocks"
 	"github.com/TriM-Organization/merry-memory/utils"
-	"github.com/df-mc/worldupgrader/blockupgrader"
-	"github.com/df-mc/worldupgrader/itemupgrader"
 )
 
 // SetBlock ..

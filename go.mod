@@ -30,9 +30,9 @@ require (
 )
 
 require (
-	github.com/TriM-Organization/bedrock-world-operator v1.3.1
+	github.com/Happy2018new/worldupgrader v1.1.0
+	github.com/TriM-Organization/bedrock-world-operator v1.4.0
 	github.com/andybalholm/brotli v1.2.0
-	github.com/df-mc/worldupgrader v1.0.15
 	github.com/lucasb-eyer/go-colorful v1.2.0
 	github.com/pterm/pterm v0.12.81
 )
